@@ -46,7 +46,4 @@ public class Client {
 		this.code = code;
 		this.projectName = projectName;
 	}
-	public Client() {
-		super();
-	}
 }
